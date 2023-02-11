@@ -1,2 +1,2 @@
-# My-personal-website
-My personal website
+Project from Udemy course 
+
